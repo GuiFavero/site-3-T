@@ -72,6 +72,7 @@ h1 {
   font-family: 'Dancing Script', cursive;
   font-size: 6em;
   padding: 0.5em 0 0.3em 0;
+   color: #eb01eb;
 }
 
 .rodape{
@@ -90,4 +91,8 @@ h1 {
 .by{
   text-align: right;
   margin-right: 1em;
+}
+
+.opai{
+  background-image: url(./849.png);
 }
